@@ -15,7 +15,7 @@
            remote="github"
            sync-j="4" />
 
-<project path="build" name="nadlabak/android_build">
+<project path="build" name="daedae1112/android_build">
   <copyfile src="core/root.mk" dest="Makefile" />
 </project>
 
@@ -203,8 +203,8 @@
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
   <project path="external/zxing" name="CyanogenMod/android_external_zxing" />
 
-<project path="frameworks/av" name="nadlabak/android_frameworks_av" />
-<project path="frameworks/base" name="nadlabak/android_frameworks_base" />
+<project path="frameworks/av" name="daedae1112/android_frameworks_av" />
+<project path="frameworks/base" name="daedae1112/android_frameworks_base" />
 
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="CyanogenMod/android_frameworks_compile_linkloader" />
@@ -214,7 +214,7 @@
   <project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" />
 
-<project path="frameworks/native" name="nadlabak/android_frameworks_native" />
+<project path="frameworks/native" name="daedae1112/android_frameworks_native" />
 
   <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
@@ -228,12 +228,12 @@
   <project path="gdk" name="CyanogenMod/android_gdk" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
 
-<project path="hardware/cm" name="nadlabak/android_hardware_cm" />
+<project path="hardware/cm" name="daedae1112/android_hardware_cm" />
 
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
 
-<project path="hardware/libhardware_legacy" name="nadlabak/android_hardware_libhardware_legacy" />
+<project path="hardware/libhardware_legacy" name="daedae1112/android_hardware_libhardware_legacy" />
 
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" />
@@ -241,7 +241,7 @@
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
 
-<project path="hardware/ril" name="nadlabak/android_hardware_ril" />
+<project path="hardware/ril" name="daedae1112/android_hardware_ril" />
 <project path="hardware/ti/omap3" name="nadlabak/android_hardware_ti_omap3-compat" />
 
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
@@ -259,7 +259,7 @@
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
 
-<project path="packages/apps/Camera" name="nadlabak/android_packages_apps_Camera" />
+<project path="packages/apps/Camera" name="daedae1112/android_packages_apps_Camera" />
 
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
@@ -284,7 +284,7 @@
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
 
-<project path="packages/apps/Phone" name="nadlabak/android_packages_apps_Phone" />
+<project path="packages/apps/Phone" name="daedae1112/android_packages_apps_Phone" />
 
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
@@ -353,7 +353,7 @@
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
 
-<project path="system/core" name="nadlabak/android_system_core" />
+<project path="system/core" name="daedae1112/android_system_core" />
 
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
