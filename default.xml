@@ -31,7 +31,7 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   
-<project path="device/motorola/umts_sholes" name="daedae1112/android_device_motorola_umts_sholes" />
+<project path="device/motorola/umts_sholes" name="daedae1112/android_device_motorola_umts_sholes" revision="ics-daedae" />
 
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
@@ -287,7 +287,7 @@
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
 
-<project path="vendor/cm" name="daedae1112/android_vendor_cm" />
+<project path="vendor/cm" name="daedae1112/android_vendor_cm" revision="ics-daedae" />
 
   <project path="vendor/qcom/opensource/kernel-tests/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_kernel-tests_mm-audio" />
   <project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" />
@@ -312,7 +312,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
 <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
-<project path="vendor/motorola/umts_sholes" name="nadlabak/android_vendor_motorola_umts_sholes" />
+<project path="vendor/motorola/umts_sholes" name="daedae1112/android_vendor_motorola_umts_sholes" revision="ics-daedae" />
 <project path="android" name="daedae1112/android" />
 
 </manifest>
