@@ -205,7 +205,7 @@
   <project path="external/zxing" name="CyanogenMod/android_external_zxing" />
 
 <project path="frameworks/av" name="daedae1112/android_frameworks_av" />
-<project path="frameworks/base" name="daedae1112/android_frameworks_base" />
+<project path="frameworks/base" name="daedaeXT800W/android_frameworks_base" />
 
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="CyanogenMod/android_frameworks_compile_linkloader" />
